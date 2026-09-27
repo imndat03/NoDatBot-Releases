@@ -1,8 +1,8 @@
 {
-  "version": "2.0.2",
-  "releaseDate": "2026-09-27T04:22:58.819Z",
-  "changelog": "Tính năng OTA Auto-Update 1-Click trực tuyến",
-  "patchFile": "NoDatBot_Patch_v2.0.2.zip",
-  "patchSizeMb": "19.17",
-  "patchUrl": "https://raw.githubusercontent.com/imndat03/NoDatBot-Releases/main/NoDatBot_Patch_v2.0.2.zip"
+  "version": "2.1.0",
+  "releaseDate": "2026-09-27T07:39:52.231Z",
+  "changelog": "Tích hợp Tab Quản Lý Box Chat (xem danh sách, cấm/bỏ cấm nhóm, gửi tin nhắn trực tiếp, bot rời nhóm) và cải tiến hiển thị thống kê lệnh bật/tắt.",
+  "patchFile": "NoDatBot_Patch_v2.1.0.zip",
+  "patchSizeMb": "19.18",
+  "patchUrl": "https://github.com/imndat03/NoDatBot-Releases/releases/download/v2.1.0/NoDatBot_Patch_v2.1.0.zip"
 }
